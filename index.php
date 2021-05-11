@@ -20,20 +20,20 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
-    <link rel="apple-touch-icon" href="img/icon.png">
+    <link rel="apple-touch-icon" href="img/5mprojects-logo.png">
 </head>
 
 </html>
 
-<div class="overlay"></div>
-<div class="stars" aria-hidden="true"></div>
+<div class="overlay landing"></div>
+<!-- <div class="stars" aria-hidden="true"></div>
 <div class="starts2" aria-hidden="true"></div>
-<div class="stars3" aria-hidden="true"></div>
+<div class="stars3" aria-hidden="true"></div> -->
 <main class="main">
 	<section class="contact">
 		<img src="img/5mprojects-logo.png" height="200 rem" alt="5M Projects Logo" />
 		<h2 class="title">This website is under construction.</h2>
-    <h2 class="sub-title">Contact us: <br> +9122 4006 3327 </h2>
+    <h2 class="sub-title">Contact: <br> +91 771 881 7660 <br> info@5mprojects.in </h2>
     <p>
 	</section>
 </main>
